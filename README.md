@@ -1,5 +1,9 @@
 # Branch Cleaner
 
+> **⚠️ UNDER CONSTRUCTION**
+>
+> This project is currently under active development. Features and APIs are subject to change.
+
 Branch Cleaner is a CLI tool written in Go designed to help developers manage and clean up old git branches.
 
 ## Features
